@@ -27,7 +27,7 @@ Ex) Asking a child "Do you like chocolate?" primes them for a negative or positi
 ## **The Solution**
 0. Create a better voting aid application.
 1. Focus on ranking only what is given (political statements in this case).
-2. present relative data that takes into account the individuals priorities when it comes to attribute selection.
+2. Present relative data that takes into account the individuals priorities when it comes to attribute selection.
 3. Make the data presentable and fun to share (increases changes of health political discourse).
 
 ## **The Approach**
