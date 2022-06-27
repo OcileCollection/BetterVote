@@ -17,7 +17,7 @@ Ex) One child holds a general distaste for chocolate but is ver suprised by this
 
 Issue #3: **Vote compasses make attempts to make absolute representations of relative responses.**
 
-Ex) Political stances such as "right-leaning" or "left-leaning" are only relevant in the political landscape that they are taken in. It is like playing a game of hot or cold with no defined/optimal choice. Instead of closing in on the political party that is in closest interest, you end up circling around and around as people and the political landscape changes.
+Ex) Political stances such as "right-leaning" or "left-leaning" are only relevant in the political landscape that they are taken in. It is like playing a game of hot or cold with no defined/optimal choice. Instead of closing in on the political party that is in closest interest, individuals bounce between two wildly different political ideas like a game of pong.
 
 Issue #4: **Questionaries that produce results for Vote Compasses introduce bias.**
 
