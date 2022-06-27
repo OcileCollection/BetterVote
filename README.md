@@ -12,7 +12,7 @@ Ex) If you were to ask a child and a chef about the quality of a piece of chocol
 
 Issue #2: **Vote compasses present relative responses in an absolute form.**
 
-Ex) One child will has a distaste for chocolate but be very suprised by this one piece. If the child rates the chocolate as a 10, would you not say that the chocolate holds a very high place in ranking in comparison to a child who likes the same chocolate and gives it a 9?
+Ex) One child holds a general distaste for chocolate but is ver suprised by this a certain type of chocolate. If the child rates the chocolate as a 10, would you not say that the chocolate holds a "higher" place in ranking in comparison to a child who likes the same chocolate and gives it a 9?
 
 
 Issue #3: **Vote compasses make attempts to make absolute representations of relative responses.**
