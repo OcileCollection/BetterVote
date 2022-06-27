@@ -7,7 +7,7 @@ A vote compass (VC) has been a toll used to measure difference in political stan
 
 Issue #1: **Humans do not produce absolute inputs/ouputs.**
 
-Ex) If you were to ask a child and a chef about the quality of a piece of chocolate, you are highly likely to get two wildly different responses. Is the child or the chef invalid in their perception of the enjoyment of distaste of the chocolate?
+Ex) If you were to ask a child and a chef about the quality of a piece of chocolate, you are highly likely to get two wildly different responses. Is the child or the chef invalid in their perception of the enjoyment or distaste of the chocolate?
 
 
 Issue #2: **Vote compasses present relative responses in an absolute form.**
